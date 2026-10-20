@@ -7,3 +7,4 @@ znam html,css,js
 Zarobic siano
 umiem podstawy gita
 Zmiana na galezi testowa
+Nauka Gita trwa
