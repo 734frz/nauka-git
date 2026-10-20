@@ -5,3 +5,4 @@ O mnie
 Ucze sie gita
 znam html,css,js
 Zarobic siano
+Test cofania zmian
