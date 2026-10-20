@@ -6,3 +6,4 @@ Ucze sie gita
 znam html,css,js
 Zarobic siano
 umiem podstawy gita
+Zmiana na galezi testowa
