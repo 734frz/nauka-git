@@ -10,3 +10,4 @@ Zmiana na galezi testowa
 Nauka Gita trwa
 Umiem wysylac zmiany na Github
 Ta zmiana powstala bezposrednio na Githubie
+Umiem podstawy Git i Github
