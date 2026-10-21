@@ -15,6 +15,6 @@ Ucze sie pracy z Pull Requestami
 Ucze sie rozwiazywania konfliktow w Git
 Ucze sie sprawdzac zmiany przed scaleniem Pull Requesta
 ## Czego sie ucze
-- Podstawy Git
+- Podstawy Git i najwazniejsze komendy
 - Praca z branchami 
 - GitHub i Pull Requesty
