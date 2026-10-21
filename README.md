@@ -9,3 +9,4 @@ umiem podstawy gita
 Zmiana na galezi testowa
 Nauka Gita trwa
 Umiem wysylac zmiany na Github
+Ta zmiana powstala bezposrednio na Githubie
