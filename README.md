@@ -13,3 +13,4 @@ Ta zmiana powstala bezposrednio na Githubie
 Umiem podstawy Git i Github
 Ucze sie pracy z Pull Requestami
 Ucze sie rozwiazywania konfliktow w Git
+Ucze sie sprawdzac zmiany przed scaleniem Pull Requesta
